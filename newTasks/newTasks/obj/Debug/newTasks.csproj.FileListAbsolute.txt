@@ -1,0 +1,8 @@
+C:\Web Development\newTasks\newTasks\obj\Debug\newTasks.csproj.AssemblyReference.cache
+C:\Web Development\newTasks\newTasks\obj\Debug\newTasks.csproj.SuggestedBindingRedirects.cache
+C:\Web Development\newTasks\newTasks\obj\Debug\newTasks.csproj.CoreCompileInputs.cache
+C:\Web Development\newTasks\newTasks\bin\Debug\newTasks.exe.config
+C:\Web Development\newTasks\newTasks\bin\Debug\newTasks.exe
+C:\Web Development\newTasks\newTasks\bin\Debug\newTasks.pdb
+C:\Web Development\newTasks\newTasks\obj\Debug\newTasks.exe
+C:\Web Development\newTasks\newTasks\obj\Debug\newTasks.pdb
